@@ -1,2 +1,2 @@
 # CodeCraftHub
-AI Driven Code Development Engine
+AI Driven Learning App
